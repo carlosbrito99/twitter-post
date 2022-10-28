@@ -1,4 +1,4 @@
-# 1. Prática #2 PWEB2
+# 1. Prática #3 PWEB2
 
 - [1. Prática #2 PWEB2](#1-prática-2-pweb2)
   - [1.1. Descrição da prática](#11-descrição-da-prática)
